@@ -51,4 +51,5 @@ O projeto contará com diferentes sistemas responsáveis pelo funcionamento do R
 * Sistema de salvamento:
     Permite armazenar e recuperar informações da partida por meio de arquivos.
 
-  
+  <img width="912" height="30" alt="{6A842642-91DF-4A83-8FC9-904C6B53E8D8}" src="https://github.com/user-attachments/assets/a479e4ed-619e-43de-859a-0e1795d66118" />
+
